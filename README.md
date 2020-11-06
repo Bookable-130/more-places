@@ -1,7 +1,22 @@
 # Front-End Capstone
 
-> This front-end capstone is a front-end design of an "item detail page" for a house rental application. This item detail page includes four significant modules ("widgets") on the page (see related projects below).
+This front-end capstone is a front-end design of an "item detail page" for a house rental application. This item detail page includes four significant modules ("widgets") on the page (see related projects below).
 
+## Demo
+Scrolling through listings:
+
+<p align="center">
+<img src="https://media.giphy.com/media/R7IIrzGecqGO2aEZTE/giphy.gif" width="70%"></p>
+
+Form Modal for favoriting:
+
+<p align="center">
+<img src="https://media.giphy.com/media/RKmLYjKhsMq3BbD3UK/giphy.gif" width="70%"></p>
+
+Form Modal to create a new collection:
+
+<p align="center">
+<img src="https://media.giphy.com/media/ldAnZGhJzFQzW43Ovh/giphy.gif" width="70%"></p>
 
 ## Related Projects
 
@@ -9,16 +24,6 @@
   - https://github.com/Bookable/calendar-service
   - https://github.com/Bookable/more-places-service
   - https://github.com/Bookable/review-service
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
 
 ## Requirements
 
