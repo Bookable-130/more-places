@@ -1,6 +1,6 @@
 # More-Places-Module
 
-This front-end capstone is a front-end design of an "item detail page" for a house rental application. This item detail page includes four significant modules ("widgets") on the page (see related projects below).
+This is the user interface for an "item detail page" for a house rental application. This item detail page includes four significant modules ("widgets") on the page (see related modules below).
 
 ## Demo
 Scrolling through listings:
@@ -18,7 +18,7 @@ Form Modal to create a new collection:
 <p align="center">
 <img src="https://media.giphy.com/media/ldAnZGhJzFQzW43Ovh/giphy.gif" width="70%"></p>
 
-## Related Projects
+## Related Modules
 
   - https://github.com/Bookable/photo-gallery-service
   - https://github.com/Bookable/calendar-service
