@@ -6,17 +6,17 @@ This front-end capstone is a front-end design of an "item detail page" for a hou
 Scrolling through listings:
 
 <p align="center">
-<img src="https://media.giphy.com/media/R7IIrzGecqGO2aEZTE/giphy.gif" width="40%"></p>
+<img src="https://media.giphy.com/media/R7IIrzGecqGO2aEZTE/giphy.gif" width="70%"></p>
 
 Form Modal for favoriting:
 
 <p align="center">
-<img src="https://media.giphy.com/media/RKmLYjKhsMq3BbD3UK/giphy.gif" width="40%"></p>
+<img src="https://media.giphy.com/media/RKmLYjKhsMq3BbD3UK/giphy.gif" width="70%"></p>
 
 Form Modal to create a new collection:
 
 <p align="center">
-<img src="https://media.giphy.com/media/ldAnZGhJzFQzW43Ovh/giphy.gif" width="40%"></p>
+<img src="https://media.giphy.com/media/ldAnZGhJzFQzW43Ovh/giphy.gif" width="70%"></p>
 
 ## Related Projects
 
