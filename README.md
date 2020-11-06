@@ -1,4 +1,4 @@
-# Front-End Capstone
+# More-Places-Module
 
 This front-end capstone is a front-end design of an "item detail page" for a house rental application. This item detail page includes four significant modules ("widgets") on the page (see related projects below).
 
